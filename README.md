@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neelachari</h1>
 
-<img width="90%" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="gif"/>
+<!-- <img width="90%" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="gif"/> -->
 <h3>  💫 About Me:</h3>
 <ul>
   <li>🌱  I’m currently learning React,MongoDB,Node.js</li>
