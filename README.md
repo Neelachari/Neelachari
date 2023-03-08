@@ -12,7 +12,9 @@
 </ul>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Neelachari&icon=5&color=12)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Neelachari&icon=5&color=12)](https://visitcount.itsvg.in) -->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=neelachari&label=Profile%20views&color=0e75b6&style=flat" alt="neelachari" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -27,5 +29,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Neelachari&theme=swift&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelachari&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 
 
