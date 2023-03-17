@@ -5,7 +5,7 @@
 <ul>
   <li>🌱  I’m currently learning React,MongoDB,Node.js</li>
   <li>💬 Ask me about HTML,CSS,Javascript</li>
-  <li>📫 How to reach me neelachari34@gmail.com</li>
+  <li>📫 How to reach me <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox">neelachari34@gmail.com</a></li>
   <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1jw-qGyZy-BrxtTp6BKtr7K6nlSwEBbKu/view?usp=sharing" target="_blank">Click here</a> </li>
   
   
