@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neelachari</h1>
 
 <img width="100%"  src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" alt="gif"/>
- ## 💫 About Me:
+
+## 💫 About Me:
 <ul>
   <li>🌱  I’m currently learning React,MongoDB,Node.js</li>
   <li>💬 Ask me about HTML,CSS,Javascript</li>
