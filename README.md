@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neelachari</h1>
 
-<!-- <img width="90%" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="gif"/> -->
+<img width="100%"  src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" alt="gif"/>
  ## 💫 About Me:
 <ul>
   <li>🌱  I’m currently learning React,MongoDB,Node.js</li>
