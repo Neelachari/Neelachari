@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neelachari</h1>
 
-<img width="100%"  src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" alt="gif"/>
+<img width="100%"  src="https://media.licdn.com/dms/image/C5616AQEuqf6qnXKQeA/profile-displaybackgroundimage-shrink_200_800/0/1641996122854?e=2147483647&v=beta&t=TkxQEviCR-IMpSCgC59FRS72X-Z27yywsHMqHv4rk-M" alt="gif"/>
 
 ## 💫 About Me:
 <ul>
