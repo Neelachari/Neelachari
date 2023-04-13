@@ -2,7 +2,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73E13&center=true&width=435&lines=Aspiring+MERN+Stack+Devloper;Currently+Learning+React.js)](https://git.io/typing-svg) -->
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73E13&center=true&width=435&lines=Aspiring+MERN+Stack+Developer;Currently+Learning+React.js" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73E13&center=true&width=435&lines=Aspiring+MERN+Stack+Developer;Currently+Learning+Redux.js" alt="Typing SVG" /></a></p>
 
 <img width="100%"  src="https://media.licdn.com/dms/image/C5616AQEuqf6qnXKQeA/profile-displaybackgroundimage-shrink_200_800/0/1641996122854?e=2147483647&v=beta&t=TkxQEviCR-IMpSCgC59FRS72X-Z27yywsHMqHv4rk-M" alt="gif"/>
 
