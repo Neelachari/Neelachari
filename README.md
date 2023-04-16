@@ -4,6 +4,8 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73E13&center=true&width=435&lines=Aspiring+MERN+Stack+Developer;Currently+Learning+Redux.js" alt="Typing SVG" /></a></p>
 
+<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" />
+
 <img width="100%"  src="https://media.licdn.com/dms/image/C5616AQEuqf6qnXKQeA/profile-displaybackgroundimage-shrink_200_800/0/1641996122854?e=2147483647&v=beta&t=TkxQEviCR-IMpSCgC59FRS72X-Z27yywsHMqHv4rk-M" alt="gif"/>
 
 ## 💫 About Me:
