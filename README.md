@@ -12,8 +12,8 @@
 
 ## 💫 About Me:
 <ul>
-  <li>🌱  I’m currently learning React,MongoDB,Node.js</li>
-  <li>💬 Ask me about HTML,CSS,Javascript,React.js</li>
+  <li>🌱  I’m currently learning Express.js,MongoDB,Node.js</li>
+  <li>💬 Ask me about HTML,CSS,Javascript,React.js,Redux,TypeScript</li>
   <li>📫 How to reach me <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox">neelachari34@gmail.com</a></li>
   <li>👨‍💻 All of my projects are available <a href="https://neelachari.github.io/" target="_blank">Click Here</a></li>
   <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/10LKxarNqj69fzsMouqtAfUMk15jJF3Ic/view?usp=sharing" target="_blank">Click Here</a></li>
