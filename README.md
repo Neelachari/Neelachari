@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Neelachari</h1>
 
 
-
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73E13&center=true&width=435&lines=Aspiring+MERN+Stack+Devloper;Currently+Learning+React.js)](https://git.io/typing-svg) -->
 
 
