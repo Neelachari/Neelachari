@@ -30,7 +30,7 @@
 
 ## 👨‍💻 Professional summary
 
-### Experienced in HTML, CSS, JavaScript, React.js, Redux.js, TypeScript, Node.js, Express.js, MongoDB, and OpenAI, with a strong focus on delivering exceptional digital experiences.  Thrives in collaborative and interdisciplinary teams, consistently executing goal-oriented projects that enhance user experience. Proficient in agile methodologies and project management, contributing to successful and impactful outcomes. A motivated, skilled, and team-oriented developer, well-suited for any software development team striving for excellence.
+#### Experienced in HTML, CSS, JavaScript, React.js, Redux.js, TypeScript, Node.js, Express.js, MongoDB, and OpenAI, with a strong focus on delivering exceptional digital experiences.  Thrives in collaborative and interdisciplinary teams, consistently executing goal-oriented projects that enhance user experience. Proficient in agile methodologies and project management, contributing to successful and impactful outcomes. A motivated, skilled, and team-oriented developer, well-suited for any software development team striving for excellence.
 
 
 
